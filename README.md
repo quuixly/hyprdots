@@ -158,12 +158,16 @@ pokemon-colorscripts-git | display pokemon sprites
 | :-:   | :-:   | :-:   | ---    |
 | `Super` | `Q` | | Quit active/focused window
 | `Super` | `del` | | quit Hyprland session
-| `Super` | `W` | | toggle Window on focus to float
-| `Alt` | `enter` | | toggle window on focus to fullscreen
+| `Super` | `V` | | toggle Window on focus to float
+| `Super` | `enter` | | toggle window on focus to fullscreen
+| `Super` | `right click` | | resize window using right button on a mouse
+| `Super` | `Shift` | `left arrow` | resize window
+| `Super` | `Shift` | `right arrow` | resize window
+| `Super` | `Shift` | `up arrow` | resize window
+| `Super` | `Shift` | `down arrow` | resize window
 | `Super` | `G` | | disable hypr effects for Gamemode
 | `Super` | `T` | | launch kitty Terminal
 | `Super` | `E` | | launch dolphin file Explorer
-| `Super` | `V` | | launch Vs code
 | `Super` | `F` | | launch Firefox
 | `Super` | `A` | | launch desktop Applications (rofi)
 | `Super` | `tab` | | switch open applications (rofi)
